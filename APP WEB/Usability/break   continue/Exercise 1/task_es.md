@@ -1,3 +1,0 @@
-## `break` & `continue` (#1)
-
-Implementa una función `readNumbers()` que toma un `vararg` de `String` como argumento y utiliza un bucle `for` para probar cada `String`. Cuando la entrada es cero, rompe (`break`) del bucle y utiliza `trace()` para mostrar la suma de los números ingresados. Si el usuario ingresa un valor que no es un número, utiliza `trace()` para mostrar "Not a number: $input" y pasa al siguiente `String` de entrada.
