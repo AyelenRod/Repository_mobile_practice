@@ -1,0 +1,1040 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TranslationProjectSettings">
+    <option name="currentTranslationLanguage" value="Spanish" />
+    <option name="structureTranslation">
+      <map>
+        <entry key="Spanish">
+          <value>
+            <map>
+              <entry key="116075" value="Hola, Mundo  " />
+              <entry key="116077" value="var &amp; val  " />
+              <entry key="116079" value="Tipos de Datos  " />
+              <entry key="116081" value="Funciones  " />
+              <entry key="116084" value="Expresiones if  " />
+              <entry key="116087" value="Plantillas de Cadena  " />
+              <entry key="116088" value="Tipos Numéricos  " />
+              <entry key="116092" value="Booleanos  " />
+              <entry key="116095" value="Repetición con while  " />
+              <entry key="116097" value="Bucles &amp; Rangos  " />
+              <entry key="116100" value="La palabra clave in  " />
+              <entry key="116101" value="Expresiones &amp; Declaraciones  " />
+              <entry key="116102" value="Resumen 1  " />
+              <entry key="116105" value="Objetos en todas partes  " />
+              <entry key="116108" value="Creación de Clases  " />
+              <entry key="116110" value="Propiedades  " />
+              <entry key="116111" value="Constructores  " />
+              <entry key="116112" value="Restringiendo Visibilidad  " />
+              <entry key="116113" value="Paquetes  " />
+              <entry key="116115" value="Pruebas  " />
+              <entry key="116117" value="Excepciones  " />
+              <entry key="116118" value="Listas  " />
+              <entry key="116119" value="Listas de Argumentos Variables  " />
+              <entry key="116120" value="Conjuntos  " />
+              <entry key="116122" value="Mapas  " />
+              <entry key="116124" value="Accesores de Propiedad  " />
+              <entry key="116126" value="Resumen 2  " />
+              <entry key="1305709" value="Ejemplos  " />
+              <entry key="1305710" value="Ejercicio 1  " />
+              <entry key="1305711" value="Ejercicio 2  " />
+              <entry key="1305712" value="Ejercicio 3  " />
+              <entry key="1305713" value="Ejemplos  " />
+              <entry key="1305714" value="Ejercicio 1  " />
+              <entry key="1305715" value="Ejercicio 2  " />
+              <entry key="1305716" value="Ejercicio 3  " />
+              <entry key="1305717" value="Ejemplos  " />
+              <entry key="1305718" value="Ejercicio 1  " />
+              <entry key="1305719" value="Ejercicio 2  " />
+              <entry key="1305720" value="Ejercicio 3  " />
+              <entry key="1305721" value="Ejemplos  " />
+              <entry key="1305722" value="Ejercicio 1  " />
+              <entry key="1305723" value="Ejercicio 2  " />
+              <entry key="1305724" value="Ejercicio 3  " />
+              <entry key="1305725" value="Ejemplos  " />
+              <entry key="1305726" value="Ejercicio 3  " />
+              <entry key="1305727" value="Ejercicio 2  " />
+              <entry key="1305729" value="Ejemplos  " />
+              <entry key="1305730" value="Ejercicio 2  " />
+              <entry key="1305731" value="Ejercicio 3  " />
+              <entry key="1305735" value="Ejemplos" />
+              <entry key="1305736" value="Ejercicio 1  " />
+              <entry key="1305737" value="Ejercicio 2  " />
+              <entry key="1305738" value="Ejercicio 3  " />
+              <entry key="1305740" value="Ejemplos  " />
+              <entry key="1305743" value="Ejercicio 2  " />
+              <entry key="1305744" value="Ejemplos  " />
+              <entry key="1305745" value="Ejercicio 1  " />
+              <entry key="1305746" value="Ejercicio 2  " />
+              <entry key="1305747" value="Ejercicio 3  " />
+              <entry key="1305748" value="Ejemplos  " />
+              <entry key="1305749" value="Ejercicio 2  " />
+              <entry key="1305751" value="Ejercicio 1  " />
+              <entry key="1305752" value="Ejemplos  " />
+              <entry key="1305753" value="Ejercicio 1  " />
+              <entry key="1305754" value="Ejercicio 2  " />
+              <entry key="1305755" value="Ejercicio 3  " />
+              <entry key="1305756" value="Ejemplos  " />
+              <entry key="1305757" value="Ejercicio 1  " />
+              <entry key="1305758" value="Ejercicio 2  " />
+              <entry key="1305759" value="Ejercicio 3  " />
+              <entry key="1305761" value="Ejemplos  " />
+              <entry key="1305762" value="Ejercicio 1  " />
+              <entry key="1305763" value="Ejercicio 2  " />
+              <entry key="1305764" value="Ejercicio 3  " />
+              <entry key="1305765" value="Ejemplos  " />
+              <entry key="1305766" value="Ejercicio 1  " />
+              <entry key="1305767" value="Ejercicio 2  " />
+              <entry key="1305768" value="Ejercicio 3  " />
+              <entry key="1305769" value="Ejercicio 4  " />
+              <entry key="1305771" value="Ejemplos  " />
+              <entry key="1305772" value="Ejercicio 1  " />
+              <entry key="1305773" value="Ejercicio 2  " />
+              <entry key="1305774" value="Ejercicio 3  " />
+              <entry key="1305775" value="Ejemplos  " />
+              <entry key="1305776" value="Ejercicio 1  " />
+              <entry key="1305777" value="Ejercicio 2  " />
+              <entry key="1305778" value="Ejercicio 3  " />
+              <entry key="1305779" value="Ejemplos  " />
+              <entry key="1305780" value="Ejercicio 1  " />
+              <entry key="1305781" value="Ejercicio 2  " />
+              <entry key="1305782" value="Ejercicio 3  " />
+              <entry key="1305788" value="Ejemplos  " />
+              <entry key="1305789" value="Ejemplos  " />
+              <entry key="1305790" value="Ejemplos  " />
+              <entry key="1305791" value="Ejemplos  " />
+              <entry key="1305793" value="Ejemplos  " />
+              <entry key="1305795" value="Ejemplos  " />
+              <entry key="1305806" value="Ejemplos  " />
+              <entry key="1305807" value="Ejercicio 1  " />
+              <entry key="1305808" value="Ejercicio 2  " />
+              <entry key="1305809" value="Ejercicio 3  " />
+              <entry key="1305813" value="Ejemplos  " />
+              <entry key="1305814" value="Ejemplos  " />
+              <entry key="1305815" value="Ejemplos  " />
+              <entry key="1305816" value="Ejemplos  " />
+              <entry key="1305817" value="Ejemplos  " />
+              <entry key="1305818" value="Ejemplos  " />
+              <entry key="1305819" value="Ejemplos  " />
+              <entry key="1305820" value="Ejercicio 1  " />
+              <entry key="1305821" value="Ejercicio 2  " />
+              <entry key="1305822" value="Ejercicio 3  " />
+              <entry key="1305824" value="Ejercicio 3  " />
+              <entry key="1305825" value="Ejercicio 2  " />
+              <entry key="1305827" value="Ejercicio 3  " />
+              <entry key="1305828" value="Ejercicio 4  " />
+              <entry key="1305829" value="Ejercicio 3  " />
+              <entry key="1305830" value="Ejercicio 2  " />
+              <entry key="1305831" value="Ejercicio 1  " />
+              <entry key="1305832" value="Ejercicio 2  " />
+              <entry key="1305833" value="Ejercicio 3  " />
+              <entry key="1305834" value="Ejercicio 1  " />
+              <entry key="1305835" value="Ejercicio 2  " />
+              <entry key="1305836" value="Ejercicio 3  " />
+              <entry key="1305837" value="Ejercicio 4  " />
+              <entry key="1305838" value="Ejercicio 5  " />
+              <entry key="1305839" value="Ejercicio 6  " />
+              <entry key="1305840" value="Ejercicio 1  " />
+              <entry key="1305841" value="Ejercicio 2  " />
+              <entry key="1305842" value="Ejercicio 1  " />
+              <entry key="1305843" value="Ejercicio 1  " />
+              <entry key="1305844" value="Ejercicio 1  " />
+              <entry key="1305845" value="Ejercicio 1  " />
+              <entry key="1305846" value="Ejercicio 2  " />
+              <entry key="1305847" value="Ejercicio 1  " />
+              <entry key="1305848" value="Ejercicio 2  " />
+              <entry key="1305849" value="Ejercicio 1  " />
+              <entry key="1305850" value="Ejercicio 2" />
+              <entry key="1305851" value="Ejercicio 1  " />
+              <entry key="1305852" value="Ejercicio 2  " />
+              <entry key="1305854" value="Ejercicio 2  " />
+              <entry key="1305855" value="Ejercicio 2  " />
+              <entry key="1305856" value="Ejercicio 3  " />
+              <entry key="1305857" value="Ejercicio 1  " />
+              <entry key="1305858" value="Ejercicio 2  " />
+              <entry key="1305859" value="Ejercicio 3  " />
+              <entry key="1305860" value="Ejercicio 4  " />
+              <entry key="1305861" value="Ejercicio 5  " />
+              <entry key="1305862" value="Ejercicio 6  " />
+              <entry key="1305863" value="Ejercicio 1  " />
+              <entry key="1305864" value="Ejercicio 1  " />
+              <entry key="1305865" value="Ejercicio 2  " />
+              <entry key="1305866" value="Ejercicio 1  " />
+              <entry key="1305867" value="Ejercicio 2  " />
+              <entry key="1305868" value="Ejercicio 2  " />
+              <entry key="1305869" value="Ejercicio 1  " />
+              <entry key="1305870" value="Ejercicio 1  " />
+              <entry key="1305871" value="Ejercicio 3  " />
+              <entry key="1305872" value="Ejercicio 3  " />
+              <entry key="1305873" value="Ejercicio 2  " />
+              <entry key="1305874" value="Ejercicio 3  " />
+              <entry key="1305876" value="Ejercicio 2  " />
+              <entry key="1305877" value="Ejercicio 3  " />
+              <entry key="1305878" value="Ejercicio 3  " />
+              <entry key="1305879" value="Ejercicio 1  " />
+              <entry key="1305880" value="Ejercicio 6  " />
+              <entry key="1305881" value="Ejercicio 7  " />
+              <entry key="1305882" value="Ejercicio 8  " />
+              <entry key="1305883" value="Ejercicio 1  " />
+              <entry key="1305884" value="Ejercicio 2  " />
+              <entry key="1305885" value="Ejercicio 3  " />
+              <entry key="1305886" value="Ejercicio 1  " />
+              <entry key="1324420" value="Ejercicio 2  " />
+              <entry key="1325910" value="Ejercicio 1  " />
+              <entry key="132677" value="Programación Orientada a Objetos  " />
+              <entry key="132678" value="Prevención de Fallos  " />
+              <entry key="132680" value="Herramientas Avanzadas  " />
+              <entry key="158672" value="Apéndices" />
+              <entry key="1595233" value="Ejercicio 1  " />
+              <entry key="1595234" value="Ejercicio 2  " />
+              <entry key="1595235" value="Ejercicio 3  " />
+              <entry key="1595236" value="Ejemplos  " />
+              <entry key="1595237" value="Ejercicio 1  " />
+              <entry key="1595238" value="Ejercicio 2  " />
+              <entry key="1595239" value="Ejercicio 3  " />
+              <entry key="1595241" value="Ejercicio 1  " />
+              <entry key="1595242" value="Ejercicio 2  " />
+              <entry key="1595243" value="Ejercicio 3  " />
+              <entry key="1595244" value="Ejercicio 1  " />
+              <entry key="1595245" value="Ejercicio 1  " />
+              <entry key="1595246" value="Ejercicio 2  " />
+              <entry key="1595247" value="Ejercicio 1  " />
+              <entry key="1595248" value="Ejercicio 2  " />
+              <entry key="1595249" value="Ejercicio 3  " />
+              <entry key="1595250" value="Ejercicio 1  " />
+              <entry key="1595251" value="Ejercicio 2  " />
+              <entry key="1595252" value="Ejercicio 3" />
+              <entry key="1595253" value="Ejercicio 1  " />
+              <entry key="1595254" value="Ejercicio 2  " />
+              <entry key="1595255" value="Ejercicio 3  " />
+              <entry key="1595256" value="Ejercicio 1  " />
+              <entry key="1595257" value="Ejercicio 2  " />
+              <entry key="1595258" value="Ejercicio 3  " />
+              <entry key="1595259" value="Ejercicio 1  " />
+              <entry key="1595260" value="Ejercicio 2  " />
+              <entry key="1595261" value="Ejercicio 3  " />
+              <entry key="1595262" value="Ejercicio 1  " />
+              <entry key="1595263" value="Ejercicio 2  " />
+              <entry key="1595264" value="Ejercicio 3  " />
+              <entry key="1595265" value="Ejercicio 1" />
+              <entry key="1595266" value="Ejercicio 2  " />
+              <entry key="1595267" value="Ejercicio 3  " />
+              <entry key="1595275" value="Ejercicio 1  " />
+              <entry key="1595276" value="Ejercicio 2  " />
+              <entry key="1595277" value="Ejercicio 3  " />
+              <entry key="1595278" value="Ejercicio 1  " />
+              <entry key="1595279" value="Ejercicio 2  " />
+              <entry key="1595280" value="Ejercicio 3  " />
+              <entry key="1595373" value="Ejercicio 3  " />
+              <entry key="1595374" value="Ejemplos  " />
+              <entry key="1595408" value="Ejemplos  " />
+              <entry key="1710344" value="Ejercicio 1  " />
+              <entry key="1710345" value="Ejercicio 2  " />
+              <entry key="1710346" value="Ejercicio 3  " />
+              <entry key="1710347" value="Ejercicio 2  " />
+              <entry key="1710348" value="Ejercicio 3  " />
+              <entry key="1710349" value="Ejercicio 4  " />
+              <entry key="1710365" value="Ejemplos  " />
+              <entry key="1710366" value="Ejemplos  " />
+              <entry key="1710368" value="Ejercicio 1  " />
+              <entry key="175296" value="break &amp; continue  " />
+              <entry key="175297" value="Funciones de Extensión  " />
+              <entry key="175298" value="Argumentos Nombrados &amp; Por Defecto  " />
+              <entry key="175299" value="Sobrecarga  " />
+              <entry key="175300" value="when Expressions  " />
+              <entry key="175301" value="Enumeraciones  " />
+              <entry key="175302" value="Clases de Datos  " />
+              <entry key="175303" value="Tipos Nulables  " />
+              <entry key="175304" value="Llamadas Seguras y el Operador Elvis  " />
+              <entry key="175305" value="Aserciones de No Nulo  " />
+              <entry key="175306" value="Extensiones para Tipos Nulables  " />
+              <entry key="175307" value="Introducción a Genéricos  " />
+              <entry key="175308" value="Propiedades de Extensión  " />
+              <entry key="175309" value="Lambdas  " />
+              <entry key="175310" value="La Importancia de las Lambdas  " />
+              <entry key="175311" value="Operaciones sobre Colecciones  " />
+              <entry key="175312" value="Referencias de Miembro  " />
+              <entry key="175313" value="Funciones de Orden Superior  " />
+              <entry key="175314" value="Manipulación de Listas  " />
+              <entry key="175315" value="Construcción de Mapas  " />
+              <entry key="175319" value="Secuencias  " />
+              <entry key="175321" value="Funciones Locales  " />
+              <entry key="175322" value="Plegado de Listas  " />
+              <entry key="175323" value="Recursión  " />
+              <entry key="1832435" value="Ejercicio 2  " />
+              <entry key="1832436" value="Ejercicio 1  " />
+              <entry key="1832437" value="Ejercicio 3  " />
+              <entry key="1832438" value="Ejercicio 4  " />
+              <entry key="2085388" value="Ejercicio 1  " />
+              <entry key="31874" value="Fundamentos de Programación  " />
+              <entry key="31886" value="Introducción a los Objetos  " />
+              <entry key="354530" value="Interfaces  " />
+              <entry key="354531" value="Constructores Complejos  " />
+              <entry key="354532" value="Constructores Secundarios  " />
+              <entry key="354533" value="Herencia  " />
+              <entry key="354534" value="Inicialización de Clase Base  " />
+              <entry key="354535" value="Clases Abstractas  " />
+              <entry key="354536" value="Upcasting  " />
+              <entry key="354538" value="Polimorfismo  " />
+              <entry key="354539" value="Composición  " />
+              <entry key="354540" value="Herencia y Extensiones  " />
+              <entry key="354541" value="Delegación de Clases  " />
+              <entry key="354542" value="Conversión Descendente  " />
+              <entry key="354543" value="Clases Selladas  " />
+              <entry key="354544" value="Clases Anidadas  " />
+              <entry key="354545" value="Clases Internas  " />
+              <entry key="354546" value="Objetos  " />
+              <entry key="354547" value="Objetos de Compañía  " />
+              <entry key="354549" value="Manejo de Excepciones  " />
+              <entry key="354550" value="Revisar Instrucciones  " />
+              <entry key="354551" value="El Tipo Nothing  " />
+              <entry key="354552" value="Limpieza de Recursos  " />
+              <entry key="354554" value="Registro de Eventos  " />
+              <entry key="354556" value="Pruebas Unitarias  " />
+              <entry key="354562" value="Funciones de Alcance  " />
+              <entry key="354565" value="Sobrecarga de Operadores  " />
+              <entry key="354566" value="Uso de Operadores  " />
+              <entry key="354567" value="Inicialización Perezosa  " />
+              <entry key="354568" value="Inicialización Tardía  " />
+              <entry key="354569" value="Delegación de Propiedades  " />
+              <entry key="354570" value="Herramientas de Delegación de Propiedades  " />
+              <entry key="354571" value="Declaraciones de Desestructuración  " />
+              <entry key="399520" value="Ejemplos  " />
+              <entry key="399521" value="Ejercicio 1  " />
+              <entry key="399522" value="Ejercicio 2  " />
+              <entry key="399523" value="Ejercicio 4  " />
+              <entry key="399525" value="Ejercicio 5  " />
+              <entry key="399526" value="Ejemplos  " />
+              <entry key="399527" value="Ejercicio 1  " />
+              <entry key="399528" value="Ejercicio 3  " />
+              <entry key="399529" value="Ejercicio 4  " />
+              <entry key="399530" value="Ejercicio 5  " />
+              <entry key="399532" value="Ejemplos  " />
+              <entry key="399533" value="Ejercicio 1  " />
+              <entry key="399534" value="Ejercicio 5  " />
+              <entry key="399536" value="Ejemplos  " />
+              <entry key="399537" value="Ejercicio 1  " />
+              <entry key="399538" value="Ejercicio 2  " />
+              <entry key="399539" value="Ejercicio 3  " />
+              <entry key="399542" value="Ejercicio 4  " />
+              <entry key="399543" value="Ejemplos  " />
+              <entry key="399544" value="Ejercicio 1  " />
+              <entry key="399545" value="Ejercicio 2  " />
+              <entry key="399546" value="Ejercicio 3  " />
+              <entry key="399548" value="Ejercicio 4  " />
+              <entry key="399550" value="Ejemplos  " />
+              <entry key="399551" value="Ejercicio 1" />
+              <entry key="399552" value="Ejercicio 2  " />
+              <entry key="399553" value="Ejercicio 4  " />
+              <entry key="399554" value="Ejercicio 5  " />
+              <entry key="399555" value="Ejemplos  " />
+              <entry key="399556" value="Ejercicio 1  " />
+              <entry key="399558" value="Ejercicio 2  " />
+              <entry key="399560" value="Ejercicio 3  " />
+              <entry key="399561" value="Ejercicio 4  " />
+              <entry key="399562" value="Ejercicio 5  " />
+              <entry key="399564" value="Ejemplos  " />
+              <entry key="399565" value="Ejercicio 1  " />
+              <entry key="399567" value="Ejercicio 3  " />
+              <entry key="399568" value="Ejercicio 4  " />
+              <entry key="399570" value="Ejemplos  " />
+              <entry key="399571" value="Ejercicio 2  " />
+              <entry key="399572" value="Ejercicio 3  " />
+              <entry key="399574" value="Ejercicio 4  " />
+              <entry key="399575" value="Ejercicio 5  " />
+              <entry key="399576" value="Ejemplos  " />
+              <entry key="399577" value="Ejercicio 1  " />
+              <entry key="399578" value="Ejercicio 2  " />
+              <entry key="399579" value="Ejercicio 3  " />
+              <entry key="399580" value="Ejercicio 4  " />
+              <entry key="399582" value="Ejercicio 5  " />
+              <entry key="399584" value="Ejemplos  " />
+              <entry key="399585" value="Ejercicio 1  " />
+              <entry key="399586" value="Ejercicio 2" />
+              <entry key="399587" value="Ejercicio 3  " />
+              <entry key="399588" value="Ejercicio 4  " />
+              <entry key="399589" value="Ejercicio 5  " />
+              <entry key="399590" value="Ejemplos  " />
+              <entry key="399591" value="Ejercicio 1  " />
+              <entry key="399592" value="Ejercicio 4  " />
+              <entry key="399593" value="Ejemplos  " />
+              <entry key="399594" value="Ejercicio 7  " />
+              <entry key="399596" value="Ejercicio 8  " />
+              <entry key="399598" value="Ejercicio 9  " />
+              <entry key="399599" value="Ejercicio 10  " />
+              <entry key="399600" value="Ejemplos  " />
+              <entry key="399601" value="Ejercicio 1  " />
+              <entry key="399602" value="Ejercicio 2  " />
+              <entry key="399603" value="Ejercicio 3  " />
+              <entry key="399604" value="Ejercicio 4  " />
+              <entry key="399605" value="Ejercicio 5  " />
+              <entry key="399608" value="Ejemplos  " />
+              <entry key="399609" value="Ejercicio 3  " />
+              <entry key="399612" value="Ejercicio 4  " />
+              <entry key="399613" value="Ejercicio 5  " />
+              <entry key="399614" value="Ejemplos  " />
+              <entry key="399615" value="Ejercicio 2  " />
+              <entry key="399616" value="Ejercicio 3  " />
+              <entry key="399617" value="Ejercicio 4  " />
+              <entry key="399618" value="Ejemplos  " />
+              <entry key="399619" value="Ejercicio 2  " />
+              <entry key="399620" value="Ejercicio 3  " />
+              <entry key="399621" value="Ejercicio 4  " />
+              <entry key="399622" value="Ejemplos  " />
+              <entry key="399623" value="Ejercicio 2  " />
+              <entry key="399624" value="Ejercicio 3  " />
+              <entry key="399625" value="Ejercicio 4  " />
+              <entry key="399627" value="Ejercicio 5  " />
+              <entry key="399628" value="Ejemplos  " />
+              <entry key="399629" value="Ejercicio 3  " />
+              <entry key="399630" value="Ejercicio 4  " />
+              <entry key="399632" value="Ejemplos  " />
+              <entry key="399633" value="Ejercicio 3  " />
+              <entry key="399634" value="Ejercicio 4  " />
+              <entry key="399636" value="Ejemplos  " />
+              <entry key="399637" value="Ejercicio 3  " />
+              <entry key="399638" value="Ejercicio 4  " />
+              <entry key="399639" value="Ejemplos  " />
+              <entry key="399640" value="Ejercicio 1  " />
+              <entry key="399641" value="Ejercicio 2  " />
+              <entry key="399642" value="Ejercicio 3  " />
+              <entry key="399643" value="Ejercicio 4  " />
+              <entry key="399644" value="Ejemplos  " />
+              <entry key="399645" value="Ejercicio 3  " />
+              <entry key="399646" value="Ejercicio 4  " />
+              <entry key="399647" value="Ejercicio 5  " />
+              <entry key="399648" value="Ejemplos  " />
+              <entry key="399649" value="Ejercicio 3  " />
+              <entry key="399650" value="Ejercicio 1  " />
+              <entry key="399651" value="Ejercicio 4  " />
+              <entry key="399653" value="Ejemplos  " />
+              <entry key="399654" value="Ejercicio 1  " />
+              <entry key="399656" value="Ejercicio 2  " />
+              <entry key="399657" value="Ejercicio 3  " />
+              <entry key="399658" value="Ejercicio 4  " />
+              <entry key="399659" value="Ejemplos  " />
+              <entry key="399660" value="Ejercicio 1  " />
+              <entry key="399661" value="Ejercicio 4  " />
+              <entry key="399663" value="Ejercicio 5  " />
+              <entry key="399664" value="Ejemplos  " />
+              <entry key="399665" value="Ejercicio 7  " />
+              <entry key="399666" value="Ejercicio 8  " />
+              <entry key="412153" value="Verificación de Tipos  " />
+              <entry key="412154" value="Lambdas de Extensión  " />
+              <entry key="412155" value="Creación de Genéricos  " />
+              <entry key="440662" value="AtomicTest  " />
+              <entry key="440663" value="Interoperabilidad con Java" />
+              <entry key="497830" value="Ejemplos  " />
+              <entry key="497831" value="Ejemplos  " />
+              <entry key="497832" value="Ejercicio 1  " />
+              <entry key="497833" value="Ejercicio 2  " />
+              <entry key="497834" value="Ejercicio 3  " />
+              <entry key="497835" value="Ejercicio 4  " />
+              <entry key="497836" value="Ejemplos  " />
+              <entry key="497837" value="Ejercicio 2  " />
+              <entry key="497838" value="Ejercicio 3  " />
+              <entry key="497839" value="Ejercicio 4  " />
+              <entry key="497840" value="Ejemplos  " />
+              <entry key="497841" value="Ejercicio 3  " />
+              <entry key="497842" value="Ejercicio 4  " />
+              <entry key="497843" value="Ejemplos  " />
+              <entry key="497844" value="Ejercicio 1  " />
+              <entry key="497845" value="Ejercicio 2  " />
+              <entry key="497846" value="Ejercicio 3  " />
+              <entry key="497847" value="Ejercicio 4  " />
+              <entry key="497848" value="Ejemplos  " />
+              <entry key="497849" value="Ejercicio 1" />
+              <entry key="497850" value="Ejercicio 2  " />
+              <entry key="497851" value="Ejercicio 3  " />
+              <entry key="497852" value="Ejemplos  " />
+              <entry key="497854" value="Ejercicio 3  " />
+              <entry key="497855" value="Ejemplos  " />
+              <entry key="497856" value="Ejercicio 1  " />
+              <entry key="497857" value="Ejercicio 3  " />
+              <entry key="497858" value="Ejemplos  " />
+              <entry key="497859" value="Ejercicio 2  " />
+              <entry key="497860" value="Ejercicio 3  " />
+              <entry key="497861" value="Ejemplos  " />
+              <entry key="497863" value="Ejercicio 3  " />
+              <entry key="497864" value="Ejemplos  " />
+              <entry key="497865" value="Ejercicio 1  " />
+              <entry key="497866" value="Ejercicio 2  " />
+              <entry key="497867" value="Ejemplos  " />
+              <entry key="497868" value="Ejercicio 1  " />
+              <entry key="497869" value="Ejercicio 2  " />
+              <entry key="497870" value="Ejemplos  " />
+              <entry key="497871" value="Ejercicio 1  " />
+              <entry key="497872" value="Ejemplos  " />
+              <entry key="497873" value="Ejercicio 1  " />
+              <entry key="497874" value="Ejercicio 2  " />
+              <entry key="497875" value="Ejercicio 3  " />
+              <entry key="497876" value="Ejemplos  " />
+              <entry key="497877" value="Ejercicio 1  " />
+              <entry key="497878" value="Ejercicio 2  " />
+              <entry key="497879" value="Ejemplos  " />
+              <entry key="497880" value="Ejercicio 1  " />
+              <entry key="497881" value="Ejercicio 2  " />
+              <entry key="497882" value="Ejercicio 3  " />
+              <entry key="497883" value="Ejercicio 4  " />
+              <entry key="497884" value="Ejemplos  " />
+              <entry key="497885" value="Ejercicio 2  " />
+              <entry key="497886" value="Ejercicio 3  " />
+              <entry key="497887" value="Ejemplos  " />
+              <entry key="497888" value="Ejercicio 1  " />
+              <entry key="497889" value="Ejercicio 2  " />
+              <entry key="497890" value="Ejercicio 3  " />
+              <entry key="497891" value="Ejercicio 4  " />
+              <entry key="497892" value="Ejemplos  " />
+              <entry key="497893" value="Ejercicio 1  " />
+              <entry key="497894" value="Ejercicio 2  " />
+              <entry key="497895" value="Ejercicio 3  " />
+              <entry key="497896" value="Ejercicio 4  " />
+              <entry key="497897" value="Ejercicio 5  " />
+              <entry key="497898" value="Ejercicio 6  " />
+              <entry key="497899" value="Ejercicio 7  " />
+              <entry key="497900" value="Ejemplos  " />
+              <entry key="497901" value="Ejercicio 1  " />
+              <entry key="497902" value="Ejercicio 2  " />
+              <entry key="497903" value="Ejercicio 3  " />
+              <entry key="497913" value="Ejemplos  " />
+              <entry key="497914" value="Ejercicio 1  " />
+              <entry key="497915" value="Ejercicio 2  " />
+              <entry key="497916" value="Ejercicio 3  " />
+              <entry key="497917" value="Ejercicio 4  " />
+              <entry key="497918" value="Ejercicio 5  " />
+              <entry key="497922" value="Ejemplos  " />
+              <entry key="497924" value="Ejemplos  " />
+              <entry key="497925" value="Ejercicio 1  " />
+              <entry key="497926" value="Ejercicio 2  " />
+              <entry key="497927" value="Ejercicio 3  " />
+              <entry key="497928" value="Ejercicio 4  " />
+              <entry key="497929" value="Ejemplos  " />
+              <entry key="497930" value="Ejercicio 2  " />
+              <entry key="497931" value="Ejercicio 3  " />
+              <entry key="497932" value="Ejercicio 4  " />
+              <entry key="66741" value="Usabilidad  " />
+              <entry key="66742" value="Programación Funcional  " />
+            </map>
+          </value>
+        </entry>
+        <entry key="Russian">
+          <value>
+            <map>
+              <entry key="116075" value="Привет, Мир  " />
+              <entry key="116077" value="var и val  " />
+              <entry key="116079" value="Типы данных  " />
+              <entry key="116081" value="Функции  " />
+              <entry key="116084" value="if выражения  " />
+              <entry key="116087" value="Шаблоны строк  " />
+              <entry key="116088" value="Типы чисел  " />
+              <entry key="116092" value="Логические типы  " />
+              <entry key="116095" value="Повторение с помощью while  " />
+              <entry key="116097" value="Циклы и диапазоны  " />
+              <entry key="116100" value="Ключевое слово in  " />
+              <entry key="116101" value="Выражения и операторы  " />
+              <entry key="116102" value="Резюме 1  " />
+              <entry key="116105" value="Объекты повсюду  " />
+              <entry key="116108" value="Создание классов  " />
+              <entry key="116110" value="Свойства  " />
+              <entry key="116111" value="Конструкторы  " />
+              <entry key="116112" value="Ограничение видимости  " />
+              <entry key="116113" value="Пакеты  " />
+              <entry key="116115" value="Тестирование  " />
+              <entry key="116117" value="Исключения  " />
+              <entry key="116118" value="Списки  " />
+              <entry key="116119" value="Списки переменной длины  " />
+              <entry key="116120" value="Множества  " />
+              <entry key="116122" value="Карты  " />
+              <entry key="116124" value="Доступ к свойствам  " />
+              <entry key="116126" value="Резюме 2  " />
+              <entry key="1305709" value="Примеры  " />
+              <entry key="1305710" value="Упражнение 1  " />
+              <entry key="1305711" value="Упражнение 2  " />
+              <entry key="1305712" value="Упражнение 3  " />
+              <entry key="1305713" value="Примеры  " />
+              <entry key="1305714" value="Упражнение 1  " />
+              <entry key="1305715" value="Упражнение 2  " />
+              <entry key="1305716" value="Упражнение 3  " />
+              <entry key="1305717" value="Примеры  " />
+              <entry key="1305718" value="Упражнение 1  " />
+              <entry key="1305719" value="Упражнение 2  " />
+              <entry key="1305720" value="Упражнение 3  " />
+              <entry key="1305721" value="Примеры  " />
+              <entry key="1305722" value="Упражнение 1  " />
+              <entry key="1305723" value="Упражнение 2  " />
+              <entry key="1305724" value="Упражнение 3  " />
+              <entry key="1305725" value="Примеры  " />
+              <entry key="1305726" value="Упражнение 3  " />
+              <entry key="1305727" value="Упражнение 2  " />
+              <entry key="1305729" value="Примеры  " />
+              <entry key="1305730" value="Упражнение 2  " />
+              <entry key="1305731" value="Упражнение 3  " />
+              <entry key="1305735" value="Примеры" />
+              <entry key="1305736" value="Упражнение 1  " />
+              <entry key="1305737" value="Упражнение 2  " />
+              <entry key="1305738" value="Упражнение 3  " />
+              <entry key="1305740" value="Примеры  " />
+              <entry key="1305743" value="Упражнение 2  " />
+              <entry key="1305744" value="Примеры  " />
+              <entry key="1305745" value="Упражнение 1  " />
+              <entry key="1305746" value="Упражнение 2  " />
+              <entry key="1305747" value="Упражнение 3  " />
+              <entry key="1305748" value="Примеры  " />
+              <entry key="1305749" value="Упражнение 2  " />
+              <entry key="1305751" value="Упражнение 1  " />
+              <entry key="1305752" value="Примеры  " />
+              <entry key="1305753" value="Упражнение 1  " />
+              <entry key="1305754" value="Упражнение 2  " />
+              <entry key="1305755" value="Упражнение 3  " />
+              <entry key="1305756" value="Примеры  " />
+              <entry key="1305757" value="Упражнение 1  " />
+              <entry key="1305758" value="Упражнение 2  " />
+              <entry key="1305759" value="Упражнение 3  " />
+              <entry key="1305761" value="Примеры  " />
+              <entry key="1305762" value="Упражнение 1  " />
+              <entry key="1305763" value="Упражнение 2  " />
+              <entry key="1305764" value="Упражнение 3  " />
+              <entry key="1305765" value="Примеры  " />
+              <entry key="1305766" value="Упражнение 1  " />
+              <entry key="1305767" value="Упражнение 2  " />
+              <entry key="1305768" value="Упражнение 3  " />
+              <entry key="1305769" value="Упражнение 4  " />
+              <entry key="1305771" value="Примеры  " />
+              <entry key="1305772" value="Упражнение 1  " />
+              <entry key="1305773" value="Упражнение 2  " />
+              <entry key="1305774" value="Упражнение 3  " />
+              <entry key="1305775" value="Примеры  " />
+              <entry key="1305776" value="Упражнение 1  " />
+              <entry key="1305777" value="Упражнение 2  " />
+              <entry key="1305778" value="Упражнение 3  " />
+              <entry key="1305779" value="Примеры  " />
+              <entry key="1305780" value="Упражнение 1  " />
+              <entry key="1305781" value="Упражнение 2  " />
+              <entry key="1305782" value="Упражнение 3  " />
+              <entry key="1305788" value="Примеры  " />
+              <entry key="1305789" value="Примеры  " />
+              <entry key="1305790" value="Примеры  " />
+              <entry key="1305791" value="Примеры  " />
+              <entry key="1305793" value="Примеры  " />
+              <entry key="1305795" value="Примеры  " />
+              <entry key="1305806" value="Примеры  " />
+              <entry key="1305807" value="Упражнение 1  " />
+              <entry key="1305808" value="Упражнение 2  " />
+              <entry key="1305809" value="Упражнение 3  " />
+              <entry key="1305813" value="Примеры  " />
+              <entry key="1305814" value="Примеры  " />
+              <entry key="1305815" value="Примеры  " />
+              <entry key="1305816" value="Примеры  " />
+              <entry key="1305817" value="Примеры  " />
+              <entry key="1305818" value="Примеры  " />
+              <entry key="1305819" value="Примеры  " />
+              <entry key="1305820" value="Упражнение 1  " />
+              <entry key="1305821" value="Упражнение 2  " />
+              <entry key="1305822" value="Упражнение 3  " />
+              <entry key="1305824" value="Упражнение 3  " />
+              <entry key="1305825" value="Упражнение 2  " />
+              <entry key="1305827" value="Упражнение 3  " />
+              <entry key="1305828" value="Упражнение 4  " />
+              <entry key="1305829" value="Упражнение 3  " />
+              <entry key="1305830" value="Упражнение 2  " />
+              <entry key="1305831" value="Упражнение 1  " />
+              <entry key="1305832" value="Упражнение 2  " />
+              <entry key="1305833" value="Упражнение 3  " />
+              <entry key="1305834" value="Упражнение 1  " />
+              <entry key="1305835" value="Упражнение 2  " />
+              <entry key="1305836" value="Упражнение 3  " />
+              <entry key="1305837" value="Упражнение 4  " />
+              <entry key="1305838" value="Упражнение 5  " />
+              <entry key="1305839" value="Упражнение 6  " />
+              <entry key="1305840" value="Упражнение 1  " />
+              <entry key="1305841" value="Упражнение 2  " />
+              <entry key="1305842" value="Упражнение 1  " />
+              <entry key="1305843" value="Упражнение 1  " />
+              <entry key="1305844" value="Упражнение 1  " />
+              <entry key="1305845" value="Упражнение 1  " />
+              <entry key="1305846" value="Упражнение 2  " />
+              <entry key="1305847" value="Упражнение 1  " />
+              <entry key="1305848" value="Упражнение 2  " />
+              <entry key="1305849" value="Упражнение 1  " />
+              <entry key="1305850" value="Упражнение 2  " />
+              <entry key="1305851" value="Упражнение 1  " />
+              <entry key="1305852" value="Упражнение 2  " />
+              <entry key="1305854" value="Упражнение 2  " />
+              <entry key="1305855" value="Упражнение 2  " />
+              <entry key="1305856" value="Упражнение 3  " />
+              <entry key="1305857" value="Упражнение 1  " />
+              <entry key="1305858" value="Упражнение 2  " />
+              <entry key="1305859" value="Упражнение 3  " />
+              <entry key="1305860" value="Упражнение 4  " />
+              <entry key="1305861" value="Упражнение 5  " />
+              <entry key="1305862" value="Упражнение 6  " />
+              <entry key="1305863" value="Упражнение 1  " />
+              <entry key="1305864" value="Упражнение 1  " />
+              <entry key="1305865" value="Упражнение 2  " />
+              <entry key="1305866" value="Упражнение 1  " />
+              <entry key="1305867" value="Упражнение 2  " />
+              <entry key="1305868" value="Упражнение 2  " />
+              <entry key="1305869" value="Упражнение 1  " />
+              <entry key="1305870" value="Упражнение 1  " />
+              <entry key="1305871" value="Упражнение 3  " />
+              <entry key="1305872" value="Упражнение 3  " />
+              <entry key="1305873" value="Упражнение 2  " />
+              <entry key="1305874" value="Упражнение 3  " />
+              <entry key="1305876" value="Упражнение 2  " />
+              <entry key="1305877" value="Упражнение 3  " />
+              <entry key="1305878" value="Упражнение 3  " />
+              <entry key="1305879" value="Упражнение 1  " />
+              <entry key="1305880" value="Упражнение 6  " />
+              <entry key="1305881" value="Упражнение 7  " />
+              <entry key="1305882" value="Упражнение 8  " />
+              <entry key="1305883" value="Упражнение 1  " />
+              <entry key="1305884" value="Упражнение 2  " />
+              <entry key="1305885" value="Упражнение 3  " />
+              <entry key="1305886" value="Упражнение 1  " />
+              <entry key="1324420" value="Упражнение 2  " />
+              <entry key="1325910" value="Упражнение 1  " />
+              <entry key="132677" value="Объектно-ориентированное программирование  " />
+              <entry key="132678" value="Предотвращение сбоев  " />
+              <entry key="132680" value="Дополнительные инструменты  " />
+              <entry key="158672" value="Приложения" />
+              <entry key="1595233" value="Упражнение 1  " />
+              <entry key="1595234" value="Упражнение 2  " />
+              <entry key="1595235" value="Упражнение 3  " />
+              <entry key="1595236" value="Примеры  " />
+              <entry key="1595237" value="Упражнение 1  " />
+              <entry key="1595238" value="Упражнение 2  " />
+              <entry key="1595239" value="Упражнение 3  " />
+              <entry key="1595241" value="Упражнение 1  " />
+              <entry key="1595242" value="Упражнение 2  " />
+              <entry key="1595243" value="Упражнение 3  " />
+              <entry key="1595244" value="Упражнение 1  " />
+              <entry key="1595245" value="Упражнение 1  " />
+              <entry key="1595246" value="Упражнение 2  " />
+              <entry key="1595247" value="Упражнение 1  " />
+              <entry key="1595248" value="Упражнение 2  " />
+              <entry key="1595249" value="Упражнение 3  " />
+              <entry key="1595250" value="Упражнение 1  " />
+              <entry key="1595251" value="Упражнение 2  " />
+              <entry key="1595252" value="Упражнение 3  " />
+              <entry key="1595253" value="Упражнение 1  " />
+              <entry key="1595254" value="Упражнение 2  " />
+              <entry key="1595255" value="Упражнение 3  " />
+              <entry key="1595256" value="Упражнение 1  " />
+              <entry key="1595257" value="Упражнение 2  " />
+              <entry key="1595258" value="Упражнение 3  " />
+              <entry key="1595259" value="Упражнение 1  " />
+              <entry key="1595260" value="Упражнение 2  " />
+              <entry key="1595261" value="Упражнение 3  " />
+              <entry key="1595262" value="Упражнение 1  " />
+              <entry key="1595263" value="Упражнение 2  " />
+              <entry key="1595264" value="Упражнение 3  " />
+              <entry key="1595265" value="Упражнение 1  " />
+              <entry key="1595266" value="Упражнение 2  " />
+              <entry key="1595267" value="Упражнение 3  " />
+              <entry key="1595275" value="Упражнение 1  " />
+              <entry key="1595276" value="Упражнение 2  " />
+              <entry key="1595277" value="Упражнение 3  " />
+              <entry key="1595278" value="Упражнение 1  " />
+              <entry key="1595279" value="Упражнение 2  " />
+              <entry key="1595280" value="Упражнение 3  " />
+              <entry key="1595373" value="Упражнение 3  " />
+              <entry key="1595374" value="Примеры  " />
+              <entry key="1595408" value="Примеры  " />
+              <entry key="1710344" value="Упражнение 1  " />
+              <entry key="1710345" value="Упражнение 2  " />
+              <entry key="1710346" value="Упражнение 3  " />
+              <entry key="1710347" value="Упражнение 2  " />
+              <entry key="1710348" value="Упражнение 3  " />
+              <entry key="1710349" value="Упражнение 4  " />
+              <entry key="1710365" value="Примеры  " />
+              <entry key="1710366" value="Примеры" />
+              <entry key="1710368" value="Упражнение 1  " />
+              <entry key="175296" value="break и continue  " />
+              <entry key="175297" value="Функции расширения  " />
+              <entry key="175298" value="Именованные и стандартные аргументы  " />
+              <entry key="175299" value="Перегрузка" />
+              <entry key="175300" value="when выражения  " />
+              <entry key="175301" value="Перечисления  " />
+              <entry key="175302" value="Классы данных  " />
+              <entry key="175303" value="Ссылочные типы  " />
+              <entry key="175304" value="Безопасные вызовы и оператор Элвиса  " />
+              <entry key="175305" value="Утверждения о не-null  " />
+              <entry key="175306" value="Расширения для ссылочных типов  " />
+              <entry key="175307" value="Введение в дженерики  " />
+              <entry key="175308" value="Свойства расширения  " />
+              <entry key="175309" value="Лямбда-выражения  " />
+              <entry key="175310" value="Важность лямбда-выражений  " />
+              <entry key="175311" value="Операции с коллекциями  " />
+              <entry key="175312" value="Ссылки на члены  " />
+              <entry key="175313" value="Функции высшего порядка  " />
+              <entry key="175314" value="Манипуляции со списками  " />
+              <entry key="175315" value="Создание карт  " />
+              <entry key="175319" value="Последовательности  " />
+              <entry key="175321" value="Локальные функции  " />
+              <entry key="175322" value="Свертывание списков  " />
+              <entry key="175323" value="Рекурсия  " />
+              <entry key="1832435" value="Упражнение 2  " />
+              <entry key="1832436" value="Упражнение 1  " />
+              <entry key="1832437" value="Упражнение 3  " />
+              <entry key="1832438" value="Упражнение 4  " />
+              <entry key="2085388" value="Упражнение 1  " />
+              <entry key="31874" value="Основы программирования  " />
+              <entry key="31886" value="Введение в объекты  " />
+              <entry key="354530" value="Интерфейсы  " />
+              <entry key="354531" value="Сложные конструкторы  " />
+              <entry key="354532" value="Вторичные конструкторы  " />
+              <entry key="354533" value="Наследование  " />
+              <entry key="354534" value="Инициализация базового класса  " />
+              <entry key="354535" value="Абстрактные классы  " />
+              <entry key="354536" value="Апкастинг  " />
+              <entry key="354538" value="Полиморфизм  " />
+              <entry key="354539" value="Композиция  " />
+              <entry key="354540" value="Наследование и расширения  " />
+              <entry key="354541" value="Делегирование классов  " />
+              <entry key="354542" value="Приведение вниз  " />
+              <entry key="354543" value="Запечатанные классы  " />
+              <entry key="354544" value="Вложенные классы  " />
+              <entry key="354545" value="Внутренние классы  " />
+              <entry key="354546" value="Объекты  " />
+              <entry key="354547" value="Объекты-компаньоны  " />
+              <entry key="354549" value="Обработка исключений  " />
+              <entry key="354550" value="Проверка инструкций  " />
+              <entry key="354551" value="Тип Nothing  " />
+              <entry key="354552" value="Очистка ресурсов  " />
+              <entry key="354554" value="Логирование  " />
+              <entry key="354556" value="Юнит-тестирование  " />
+              <entry key="354562" value="Функции областей  " />
+              <entry key="354565" value="Перегрузка операторов  " />
+              <entry key="354566" value="Использование операторов  " />
+              <entry key="354567" value="Ленивая инициализация  " />
+              <entry key="354568" value="Поздняя инициализация  " />
+              <entry key="354569" value="Делегирование свойств  " />
+              <entry key="354570" value="Инструменты делегирования свойств  " />
+              <entry key="354571" value="Деструктурирующие объявления  " />
+              <entry key="399520" value="Примеры  " />
+              <entry key="399521" value="Упражнение 1  " />
+              <entry key="399522" value="Упражнение 2  " />
+              <entry key="399523" value="Упражнение 4  " />
+              <entry key="399525" value="Упражнение 5  " />
+              <entry key="399526" value="Примеры  " />
+              <entry key="399527" value="Упражнение 1  " />
+              <entry key="399528" value="Упражнение 3  " />
+              <entry key="399529" value="Упражнение 4  " />
+              <entry key="399530" value="Упражнение 5  " />
+              <entry key="399532" value="Примеры  " />
+              <entry key="399533" value="Упражнение 1  " />
+              <entry key="399534" value="Упражнение 5  " />
+              <entry key="399536" value="Примеры  " />
+              <entry key="399537" value="Упражнение 1  " />
+              <entry key="399538" value="Упражнение 2  " />
+              <entry key="399539" value="Упражнение 3  " />
+              <entry key="399542" value="Упражнение 4  " />
+              <entry key="399543" value="Примеры  " />
+              <entry key="399544" value="Упражнение 1  " />
+              <entry key="399545" value="Упражнение 2  " />
+              <entry key="399546" value="Упражнение 3  " />
+              <entry key="399548" value="Упражнение 4  " />
+              <entry key="399550" value="Примеры  " />
+              <entry key="399551" value="Упражнение 1  " />
+              <entry key="399552" value="Упражнение 2  " />
+              <entry key="399553" value="Упражнение 4  " />
+              <entry key="399554" value="Упражнение 5  " />
+              <entry key="399555" value="Примеры  " />
+              <entry key="399556" value="Упражнение 1  " />
+              <entry key="399558" value="Упражнение 2  " />
+              <entry key="399560" value="Упражнение 3  " />
+              <entry key="399561" value="Упражнение 4  " />
+              <entry key="399562" value="Упражнение 5  " />
+              <entry key="399564" value="Примеры  " />
+              <entry key="399565" value="Упражнение 1  " />
+              <entry key="399567" value="Упражнение 3  " />
+              <entry key="399568" value="Упражнение 4  " />
+              <entry key="399570" value="Примеры  " />
+              <entry key="399571" value="Упражнение 2  " />
+              <entry key="399572" value="Упражнение 3  " />
+              <entry key="399574" value="Упражнение 4  " />
+              <entry key="399575" value="Упражнение 5  " />
+              <entry key="399576" value="Примеры  " />
+              <entry key="399577" value="Упражнение 1  " />
+              <entry key="399578" value="Упражнение 2  " />
+              <entry key="399579" value="Упражнение 3  " />
+              <entry key="399580" value="Упражнение 4  " />
+              <entry key="399582" value="Упражнение 5  " />
+              <entry key="399584" value="Примеры  " />
+              <entry key="399585" value="Упражнение 1  " />
+              <entry key="399586" value="Упражнение 2" />
+              <entry key="399587" value="Упражнение 3  " />
+              <entry key="399588" value="Упражнение 4  " />
+              <entry key="399589" value="Упражнение 5  " />
+              <entry key="399590" value="Примеры  " />
+              <entry key="399591" value="Упражнение 1  " />
+              <entry key="399592" value="Упражнение 4  " />
+              <entry key="399593" value="Примеры  " />
+              <entry key="399594" value="Упражнение 7  " />
+              <entry key="399596" value="Упражнение 8  " />
+              <entry key="399598" value="Упражнение 9  " />
+              <entry key="399599" value="Упражнение 10  " />
+              <entry key="399600" value="Примеры  " />
+              <entry key="399601" value="Упражнение 1  " />
+              <entry key="399602" value="Упражнение 2  " />
+              <entry key="399603" value="Упражнение 3  " />
+              <entry key="399604" value="Упражнение 4  " />
+              <entry key="399605" value="Упражнение 5  " />
+              <entry key="399608" value="Примеры  " />
+              <entry key="399609" value="Упражнение 3  " />
+              <entry key="399612" value="Упражнение 4  " />
+              <entry key="399613" value="Упражнение 5  " />
+              <entry key="399614" value="Примеры  " />
+              <entry key="399615" value="Упражнение 2  " />
+              <entry key="399616" value="Упражнение 3  " />
+              <entry key="399617" value="Упражнение 4  " />
+              <entry key="399618" value="Примеры  " />
+              <entry key="399619" value="Упражнение 2  " />
+              <entry key="399620" value="Упражнение 3  " />
+              <entry key="399621" value="Упражнение 4  " />
+              <entry key="399622" value="Примеры  " />
+              <entry key="399623" value="Упражнение 2  " />
+              <entry key="399624" value="Упражнение 3  " />
+              <entry key="399625" value="Упражнение 4  " />
+              <entry key="399627" value="Упражнение 5  " />
+              <entry key="399628" value="Примеры  " />
+              <entry key="399629" value="Упражнение 3  " />
+              <entry key="399630" value="Упражнение 4  " />
+              <entry key="399632" value="Примеры  " />
+              <entry key="399633" value="Упражнение 3  " />
+              <entry key="399634" value="Упражнение 4  " />
+              <entry key="399636" value="Примеры  " />
+              <entry key="399637" value="Упражнение 3  " />
+              <entry key="399638" value="Упражнение 4  " />
+              <entry key="399639" value="Примеры  " />
+              <entry key="399640" value="Упражнение 1  " />
+              <entry key="399641" value="Упражнение 2  " />
+              <entry key="399642" value="Упражнение 3  " />
+              <entry key="399643" value="Упражнение 4  " />
+              <entry key="399644" value="Примеры  " />
+              <entry key="399645" value="Упражнение 3  " />
+              <entry key="399646" value="Упражнение 4  " />
+              <entry key="399647" value="Упражнение 5  " />
+              <entry key="399648" value="Примеры  " />
+              <entry key="399649" value="Упражнение 3  " />
+              <entry key="399650" value="Упражнение 1  " />
+              <entry key="399651" value="Упражнение 4  " />
+              <entry key="399653" value="Примеры  " />
+              <entry key="399654" value="Упражнение 1  " />
+              <entry key="399656" value="Упражнение 2  " />
+              <entry key="399657" value="Упражнение 3  " />
+              <entry key="399658" value="Упражнение 4  " />
+              <entry key="399659" value="Примеры  " />
+              <entry key="399660" value="Упражнение 1  " />
+              <entry key="399661" value="Упражнение 4  " />
+              <entry key="399663" value="Упражнение 5  " />
+              <entry key="399664" value="Примеры  " />
+              <entry key="399665" value="Упражнение 7  " />
+              <entry key="399666" value="Упражнение 8  " />
+              <entry key="412153" value="Проверка типов  " />
+              <entry key="412154" value="Лямбды-расширения  " />
+              <entry key="412155" value="Создание обобщений  " />
+              <entry key="440662" value="AtomicTest  " />
+              <entry key="440663" value="Взаимодействие с Java" />
+              <entry key="497830" value="Примеры  " />
+              <entry key="497831" value="Примеры  " />
+              <entry key="497832" value="Упражнение 1  " />
+              <entry key="497833" value="Упражнение 2  " />
+              <entry key="497834" value="Упражнение 3  " />
+              <entry key="497835" value="Упражнение 4  " />
+              <entry key="497836" value="Примеры  " />
+              <entry key="497837" value="Упражнение 2  " />
+              <entry key="497838" value="Упражнение 3  " />
+              <entry key="497839" value="Упражнение 4  " />
+              <entry key="497840" value="Примеры  " />
+              <entry key="497841" value="Упражнение 3  " />
+              <entry key="497842" value="Упражнение 4  " />
+              <entry key="497843" value="Примеры  " />
+              <entry key="497844" value="Упражнение 1  " />
+              <entry key="497845" value="Упражнение 2  " />
+              <entry key="497846" value="Упражнение 3  " />
+              <entry key="497847" value="Упражнение 4  " />
+              <entry key="497848" value="Примеры  " />
+              <entry key="497849" value="Упражнение 1" />
+              <entry key="497850" value="Упражнение 2  " />
+              <entry key="497851" value="Упражнение 3  " />
+              <entry key="497852" value="Примеры  " />
+              <entry key="497854" value="Упражнение 3  " />
+              <entry key="497855" value="Примеры  " />
+              <entry key="497856" value="Упражнение 1  " />
+              <entry key="497857" value="Упражнение 3  " />
+              <entry key="497858" value="Примеры  " />
+              <entry key="497859" value="Упражнение 2  " />
+              <entry key="497860" value="Упражнение 3  " />
+              <entry key="497861" value="Примеры  " />
+              <entry key="497863" value="Упражнение 3  " />
+              <entry key="497864" value="Примеры  " />
+              <entry key="497865" value="Упражнение 1  " />
+              <entry key="497866" value="Упражнение 2  " />
+              <entry key="497867" value="Примеры  " />
+              <entry key="497868" value="Упражнение 1  " />
+              <entry key="497869" value="Упражнение 2  " />
+              <entry key="497870" value="Примеры  " />
+              <entry key="497871" value="Упражнение 1  " />
+              <entry key="497872" value="Примеры  " />
+              <entry key="497873" value="Упражнение 1  " />
+              <entry key="497874" value="Упражнение 2  " />
+              <entry key="497875" value="Упражнение 3  " />
+              <entry key="497876" value="Примеры  " />
+              <entry key="497877" value="Упражнение 1  " />
+              <entry key="497878" value="Упражнение 2  " />
+              <entry key="497879" value="Примеры  " />
+              <entry key="497880" value="Упражнение 1  " />
+              <entry key="497881" value="Упражнение 2  " />
+              <entry key="497882" value="Упражнение 3  " />
+              <entry key="497883" value="Упражнение 4  " />
+              <entry key="497884" value="Примеры  " />
+              <entry key="497885" value="Упражнение 2  " />
+              <entry key="497886" value="Упражнение 3  " />
+              <entry key="497887" value="Примеры  " />
+              <entry key="497888" value="Упражнение 1  " />
+              <entry key="497889" value="Упражнение 2  " />
+              <entry key="497890" value="Упражнение 3  " />
+              <entry key="497891" value="Упражнение 4" />
+              <entry key="497892" value="Примеры  " />
+              <entry key="497893" value="Упражнение 1  " />
+              <entry key="497894" value="Упражнение 2  " />
+              <entry key="497895" value="Упражнение 3  " />
+              <entry key="497896" value="Упражнение 4  " />
+              <entry key="497897" value="Упражнение 5  " />
+              <entry key="497898" value="Упражнение 6  " />
+              <entry key="497899" value="Упражнение 7  " />
+              <entry key="497900" value="Примеры  " />
+              <entry key="497901" value="Упражнение 1  " />
+              <entry key="497902" value="Упражнение 2  " />
+              <entry key="497903" value="Упражнение 3  " />
+              <entry key="497913" value="Примеры  " />
+              <entry key="497914" value="Упражнение 1  " />
+              <entry key="497915" value="Упражнение 2  " />
+              <entry key="497916" value="Упражнение 3  " />
+              <entry key="497917" value="Упражнение 4  " />
+              <entry key="497918" value="Упражнение 5  " />
+              <entry key="497922" value="Примеры  " />
+              <entry key="497924" value="Примеры  " />
+              <entry key="497925" value="Упражнение 1  " />
+              <entry key="497926" value="Упражнение 2  " />
+              <entry key="497927" value="Упражнение 3  " />
+              <entry key="497928" value="Упражнение 4  " />
+              <entry key="497929" value="Примеры  " />
+              <entry key="497930" value="Упражнение 2  " />
+              <entry key="497931" value="Упражнение 3  " />
+              <entry key="497932" value="Упражнение 4  " />
+              <entry key="66741" value="Юзабилити  " />
+              <entry key="66742" value="Функциональное программирование  " />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="translationVersions">
+      <map>
+        <entry key="Spanish" value="25" />
+        <entry key="Russian" value="26" />
+      </map>
+    </option>
+  </component>
+</project>

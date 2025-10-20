@@ -1,0 +1,3 @@
+## Argumentos nombrados y predeterminados (#1)
+
+Define una clase `Rectangle` con un constructor que acepte parámetros de `side1: Double`, `side2: Double` y `color: String`. Asigna argumentos predeterminados de `1.0` para `side1`, `2.0` para `side2` y `"yellow"` para `color`. Añade un `toString()` que produzca: `"$color rectangle $side1 x $side2"`. En `main()`, muestra diferentes formas de llamar al constructor.

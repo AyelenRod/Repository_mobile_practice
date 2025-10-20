@@ -1,0 +1,5 @@
+## Dominando el IDE: ventanas de herramientas
+
+La ventana <span class="control">`Project`</span> que muestra la estructura del curso a la izquierda y la ventana <span class="control">`Task`</span> a la derecha se llaman *ventanas de herramientas*. Puedes ajustar su tamaño haciendo clic en el borde y moviéndolo. Puedes esconder temporalmente la ventana de herramientas de la vista para hacer un mejor uso de la pantalla: haz clic en el botón "ocultar" en la esquina superior derecha de la ventana de herramientas. Para volver a verla, elige su nombre haciendo clic en el lado derecho o izquierdo de la pantalla o seleccionándola en el menú de la aplicación <span class="control">`Ver | Ventanas de Herramientas`</span>.
+
+Oculta la ventana de herramientas <span class="control">`Task`</span> y luego ábrela de nuevo.

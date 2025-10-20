@@ -1,0 +1,5 @@
+## Dominando el IDE: Cambiar firma
+
+No puedes cambiar de manera segura el nombre de un parámetro de función porque un llamador puede especificar este nombre de parámetro, por lo que su código ya no se compilará con el nuevo nombre. IntelliJ IDEA puede solucionarlo automáticamente. Usa el atajo <span class="shortcut">&shortcut:ChangeSignature;</span> o elige <span class="control">`Refactorizar | Cambiar Firma`</span>. Puedes cambiar nombres de parámetros, o añadir más parámetros a una función, y todos los llamadores serán actualizados correspondientemente.
+
+Coloca el cursor en `foo()` y selecciona la refactorización <span class="control">`Cambiar Firma`</span>. Presiona el icono con el símbolo de más (`+`) para añadir un parámetro más. Especifica su nombre como `d` y su tipo como `Double` con un valor predeterminado de `1.0`. Presiona <span class="control">`Enter`</span> o haz clic en el botón <span class="control">`Refactorizar`</span>. Observa cómo cambian los llamadores: ahora se usa el valor predeterminado para todos los llamadores. Añade el mismo parámetro a `bar()` sin especificar el valor predeterminado.

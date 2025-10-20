@@ -1,0 +1,7 @@
+## Dominando el IDE: Extraer Propiedad
+
+¿Cuántas veces usaste la constante `100` en el código de la tarea anterior? Es mejor colocar las constantes en `val`s para que sean fáciles de cambiar. Si los requisitos cambian para que el tamaño del campo sea `1000 x 1000`, es propenso a errores cambiar la constante en más de un lugar. Es muy fácil cambiarla en un lugar y olvidarse de cambiarla en otro, lo que puede llevar a errores difíciles de encontrar.
+
+Cuando una constante aparece en múltiples lugares en tu código, es prudente extraerla a una propiedad. IntelliJ IDEA te permite hacer esto automáticamente. Selecciona la constante `10` en el ejemplo de código y llama a la acción <span class="control">`Extract Property`</span>. También puedes usar el atajo <span class="shortcut">&shortcut:IntroduceField;</span> o elegir <span class="control">`Refactor | Extract | Property`</span> desde el menú principal.
+
+Selecciona `Counter` como el bloque de código de destino en el menú que se abre, asegúrate de que esté elegida la opción <span class="control">`Replace all occurrences(2)`</span>, luego presiona `Enter`. Verás que la constante ahora se declara como una propiedad, que es referenciada desde funciones miembro. La propiedad se declara con el modificador `private`, que discutimos en uno de los próximos átomos.
