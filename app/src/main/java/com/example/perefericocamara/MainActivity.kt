@@ -88,9 +88,9 @@ fun CameraScreen() {
 
         Box(
             modifier = Modifier
-                .size(300.dp)  // Tamaño fijo 300x300 dp
-                .background(Color.LightGray),  // Fondo gris claro
-            contentAlignment = Alignment.Center  // Centra el contenido
+                .size(300.dp)
+                .background(Color.LightGray),
+            contentAlignment = Alignment.Center
         ) {
 
             if (imageBitmap != null) {
