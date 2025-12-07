@@ -9,12 +9,12 @@ import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.text.KeyboardActions
 import androidx.compose.foundation.text.KeyboardOptions
 import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.Home
 import androidx.compose.material.icons.filled.Search
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.platform.LocalFocusManager
 import androidx.compose.ui.text.input.ImeAction
@@ -36,13 +36,13 @@ fun SearchScreen(navController: NavController) {
     var animeList by remember { mutableStateOf<List<AnimeEntity>>(emptyList()) }
     var isLoading by remember { mutableStateOf(false) }
 
-    fun performSearch() {
-        if (query.isBlank()) return
+    fun performSearch(searchText: String = query) {
+        if (searchText.isBlank()) return
         scope.launch {
             isLoading = true
             focusManager.clearFocus()
             try {
-                val response = RetrofitClient.instance.searchAnime(query)
+                val response = RetrofitClient.instance.searchAnime(searchText)
                 animeList = response.data.map {
                     AnimeEntity(
                         id = it.malId,
@@ -68,7 +68,15 @@ fun SearchScreen(navController: NavController) {
         topBar = {
             TopAppBar(
                 title = { Text("Buscador Haikyuu", color = HaikyuuBeige) },
-                colors = TopAppBarDefaults.topAppBarColors(containerColor = HaikyuuBlueGrey)
+                colors = TopAppBarDefaults.topAppBarColors(containerColor = HaikyuuBlueGrey),
+                actions = {
+                    IconButton(onClick = {
+                        query = "Haikyuu"
+                        performSearch()
+                    }) {
+                        Icon(Icons.Default.Home, contentDescription = "Inicio", tint = HaikyuuBeige)
+                    }
+                }
             )
         }
     ) { padding ->
@@ -78,33 +86,44 @@ fun SearchScreen(navController: NavController) {
                 .padding(padding)
                 .background(HaikyuuBeige)
         ) {
+
             Row(
                 modifier = Modifier
                     .fillMaxWidth()
                     .padding(16.dp),
                 verticalAlignment = Alignment.CenterVertically
             ) {
+
+                if (!query.equals("Haikyuu", ignoreCase = true)) {
+                    IconButton(
+                        onClick = {
+                            query = "Haikyuu"
+                            performSearch()
+                        },
+                        modifier = Modifier.padding(end = 8.dp)
+                    ) {
+                        Icon(
+                            imageVector = Icons.Default.Home,
+                            contentDescription = "Regresar a Inicio",
+                            tint = HaikyuuOrange
+                        )
+                    }
+                }
+
                 OutlinedTextField(
                     value = query,
                     onValueChange = { query = it },
-                    label = { Text("Buscar anime...") },
+                    placeholder = { Text("Escribe...", color = HaikyuuBlueGrey.copy(alpha = 0.5f)) },
                     modifier = Modifier.weight(1f),
                     singleLine = true,
                     shape = RoundedCornerShape(50.dp),
-
                     colors = OutlinedTextFieldDefaults.colors(
-
                         focusedContainerColor = HaikyuuWhite,
                         unfocusedContainerColor = HaikyuuWhite,
-
                         focusedBorderColor = HaikyuuOrange,
                         unfocusedBorderColor = HaikyuuBlueGrey,
-
                         focusedTextColor = HaikyuuBlack,
                         unfocusedTextColor = HaikyuuBlack,
-
-                        focusedLabelColor = HaikyuuOrange,
-                        unfocusedLabelColor = HaikyuuBlueGrey,
                         cursorColor = HaikyuuOrange
                     ),
                     keyboardOptions = KeyboardOptions(imeAction = ImeAction.Search),
