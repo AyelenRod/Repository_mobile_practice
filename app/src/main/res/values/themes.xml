@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.HaikyuuApp" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#F3701E</item>
+        <item name="colorPrimaryDark">#191919</item>
+        <item name="colorAccent">#4B607F</item>
+        <item name="android:statusBarColor">#191919</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
