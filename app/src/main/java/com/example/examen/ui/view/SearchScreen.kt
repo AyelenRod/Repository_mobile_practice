@@ -10,6 +10,7 @@ import androidx.compose.foundation.text.KeyboardActions
 import androidx.compose.foundation.text.KeyboardOptions
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Home
+import androidx.compose.material.icons.filled.Info
 import androidx.compose.material.icons.filled.Search
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
@@ -17,8 +18,10 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.platform.LocalFocusManager
+import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.input.ImeAction
 import androidx.compose.ui.unit.dp
+import androidx.compose.ui.unit.sp
 import androidx.navigation.NavController
 import com.example.examen.data.model.AnimeEntity
 import com.example.examen.data.remote.RetrofitClient
@@ -32,6 +35,7 @@ fun SearchScreen(navController: NavController) {
     val focusManager = LocalFocusManager.current
     val scope = rememberCoroutineScope()
 
+    // Estado del buscador
     var query by remember { mutableStateOf("Haikyuu") }
     var animeList by remember { mutableStateOf<List<AnimeEntity>>(emptyList()) }
     var isLoading by remember { mutableStateOf(false) }
@@ -87,6 +91,33 @@ fun SearchScreen(navController: NavController) {
                 .background(HaikyuuBeige)
         ) {
 
+            Card(
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .padding(start = 16.dp, end = 16.dp, top = 16.dp),
+                colors = CardDefaults.cardColors(containerColor = HaikyuuWhite),
+                shape = RoundedCornerShape(12.dp),
+                elevation = CardDefaults.cardElevation(2.dp)
+            ) {
+                Row(
+                    modifier = Modifier.padding(12.dp),
+                    verticalAlignment = Alignment.CenterVertically
+                ) {
+                    Icon(
+                        imageVector = Icons.Default.Info,
+                        contentDescription = "Info",
+                        tint = HaikyuuOrange // Naranja para llamar la atención
+                    )
+                    Spacer(modifier = Modifier.width(8.dp))
+                    Text(
+                        text = "Inspirado en Haikyuu!!, pero siéntete libre de buscar otros animes.",
+                        color = HaikyuuBlueGrey,
+                        fontSize = 14.sp,
+                        fontWeight = FontWeight.Medium
+                    )
+                }
+            }
+
             Row(
                 modifier = Modifier
                     .fillMaxWidth()
@@ -94,6 +125,7 @@ fun SearchScreen(navController: NavController) {
                 verticalAlignment = Alignment.CenterVertically
             ) {
 
+                // Barra limpia
                 OutlinedTextField(
                     value = query,
                     onValueChange = { query = it },
