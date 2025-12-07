@@ -94,22 +94,6 @@ fun SearchScreen(navController: NavController) {
                 verticalAlignment = Alignment.CenterVertically
             ) {
 
-                if (!query.equals("Haikyuu", ignoreCase = true)) {
-                    IconButton(
-                        onClick = {
-                            query = "Haikyuu"
-                            performSearch()
-                        },
-                        modifier = Modifier.padding(end = 8.dp)
-                    ) {
-                        Icon(
-                            imageVector = Icons.Default.Home,
-                            contentDescription = "Regresar a Inicio",
-                            tint = HaikyuuOrange
-                        )
-                    }
-                }
-
                 OutlinedTextField(
                     value = query,
                     onValueChange = { query = it },
