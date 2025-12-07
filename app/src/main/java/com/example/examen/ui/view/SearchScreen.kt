@@ -5,6 +5,7 @@ import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
+import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.text.KeyboardActions
 import androidx.compose.foundation.text.KeyboardOptions
 import androidx.compose.material.icons.Icons
@@ -13,6 +14,7 @@ import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.platform.LocalFocusManager
 import androidx.compose.ui.text.input.ImeAction
@@ -36,7 +38,6 @@ fun SearchScreen(navController: NavController) {
 
     fun performSearch() {
         if (query.isBlank()) return
-
         scope.launch {
             isLoading = true
             focusManager.clearFocus()
@@ -77,7 +78,6 @@ fun SearchScreen(navController: NavController) {
                 .padding(padding)
                 .background(HaikyuuBeige)
         ) {
-
             Row(
                 modifier = Modifier
                     .fillMaxWidth()
@@ -90,10 +90,21 @@ fun SearchScreen(navController: NavController) {
                     label = { Text("Buscar anime...") },
                     modifier = Modifier.weight(1f),
                     singleLine = true,
+                    shape = RoundedCornerShape(50.dp),
+
                     colors = OutlinedTextFieldDefaults.colors(
+
                         focusedContainerColor = HaikyuuWhite,
                         unfocusedContainerColor = HaikyuuWhite,
+
                         focusedBorderColor = HaikyuuOrange,
+                        unfocusedBorderColor = HaikyuuBlueGrey,
+
+                        focusedTextColor = HaikyuuBlack,
+                        unfocusedTextColor = HaikyuuBlack,
+
+                        focusedLabelColor = HaikyuuOrange,
+                        unfocusedLabelColor = HaikyuuBlueGrey,
                         cursorColor = HaikyuuOrange
                     ),
                     keyboardOptions = KeyboardOptions(imeAction = ImeAction.Search),
@@ -106,7 +117,8 @@ fun SearchScreen(navController: NavController) {
                     onClick = { performSearch() },
                     colors = ButtonDefaults.buttonColors(containerColor = HaikyuuOrange),
                     contentPadding = PaddingValues(0.dp),
-                    modifier = Modifier.size(56.dp)
+                    modifier = Modifier.size(56.dp),
+                    shape = RoundedCornerShape(50.dp)
                 ) {
                     Icon(
                         imageVector = Icons.Default.Search,
@@ -121,7 +133,8 @@ fun SearchScreen(navController: NavController) {
                 modifier = Modifier
                     .fillMaxWidth()
                     .padding(horizontal = 16.dp),
-                colors = ButtonDefaults.buttonColors(containerColor = HaikyuuBlueGrey)
+                colors = ButtonDefaults.buttonColors(containerColor = HaikyuuBlueGrey),
+                shape = RoundedCornerShape(50.dp)
             ) {
                 Text("Ver Mis Favoritos (Offline)", color = HaikyuuWhite)
             }
